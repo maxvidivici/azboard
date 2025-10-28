@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* базовая сглаженная типографика */
+html, body { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
